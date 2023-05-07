@@ -1,2 +1,2 @@
 # Nirvana
-Página web y portafolio para la empresa costarricense Nirvana Producciones.
+Página web y portafolio para la organizadora de eventos costarricense Nirvana Producciones.
