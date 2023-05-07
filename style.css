@@ -20,7 +20,7 @@ nav a {
     padding: 0 1.5rem;
 }
 
-.inicio {
+.hero {
     background: #F5CEC7;
 }
 
@@ -69,4 +69,9 @@ button:hover {
     justify-content: center;
     align-items: center;
     padding: 0rem 2rem;
+}
+
+.copyright {
+    display: flex;
+    justify-content: space-around;
 }
